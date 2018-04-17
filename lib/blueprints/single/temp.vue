@@ -9,9 +9,9 @@ export default {
     name: '{{name | camelCase}}',
     props: {},
     data() {
-      return {
+        return {
 
-      }
+        }
     },
     computed: {
 
